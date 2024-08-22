@@ -1,2 +1,2 @@
 # project_1
-Spectral Efficiency (SE) Analysis in Massive MIMO Channels using MATLAB
+Analysis and compare between AWGN , fixed and fast-fading SIMO channels using MATLAB
